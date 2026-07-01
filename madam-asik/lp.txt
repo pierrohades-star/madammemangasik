@@ -49,7 +49,7 @@
 	<meta property="og:url" content="##$$##">
 	<meta property="og:image" content="https://madammemangasik.pages.dev/banner-madam-asik/madam.slot.gacor.png">
 	<meta property="og:locale" content="en">
-	<link rel="canonical" href="  ">
+	<link rel="canonical" href="##$$##">
 	<meta name="keywords" content="MADAMTOTO , Slot88 Link , Slot Gacor , Slot Online , MADAMTOTO Login , MADAMTOTO Link Alternatif">
 	<meta name="theme-color" content="#f2f2f6">
 	<meta name="msapplication-config" content="https://www.redbubble.com/frontend-static/browserconfig.xml">
